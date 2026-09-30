@@ -1,2 +1,4 @@
-httpx==0.28.1
-pydantic==2.13.5
+httpx
+pydantic
+python-dotenv
+asyncio

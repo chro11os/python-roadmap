@@ -5,7 +5,7 @@
 - [x] Types & type hints, dataclasses / Pydantic models
 - [x] Error handling: `try/except`, custom exceptions, retries with backoff
 - [x] Files & data: JSON, CSV, `pathlib`
-- [ ] HTTP: `requests` / `httpx`, status codes, timeouts, auth headers
+- [x] HTTP: `requests` / `httpx`, status codes, timeouts, auth headers
 - [ ] Async basics: `async/await`, `asyncio.gather` (you'll call many APIs concurrently)
 - [ ] Env vars & secrets: `.env`, never commit keys
 - [ ] Virtual envs & deps: `venv` or `uv`, `pyproject.toml`
