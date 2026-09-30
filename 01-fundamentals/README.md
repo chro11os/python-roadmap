@@ -3,8 +3,8 @@
 
 ## 1. Python, production-grade
 - [x] Types & type hints, dataclasses / Pydantic models
-- [ ] Error handling: `try/except`, custom exceptions, retries with backoff
-- [ ] Files & data: JSON, CSV, `pathlib`
+- [x] Error handling: `try/except`, custom exceptions, retries with backoff
+- [x] Files & data: JSON, CSV, `pathlib`
 - [ ] HTTP: `requests` / `httpx`, status codes, timeouts, auth headers
 - [ ] Async basics: `async/await`, `asyncio.gather` (you'll call many APIs concurrently)
 - [ ] Env vars & secrets: `.env`, never commit keys
